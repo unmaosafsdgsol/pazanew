@@ -9,3 +9,4 @@ def calc_area(x,y):
     result =x*y
     return result
 >>>>>>> feature/calc_area
+
